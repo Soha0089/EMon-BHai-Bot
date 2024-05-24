@@ -8,12 +8,12 @@
   "OPERATORID": "100075290587473",
   "OPERATORLINK": "https://www.facebook.com/EMon.BHai.FACEBOOK",
   "BOTNAME": "EMon-BHai-BOT",
-  "PREFIX": "+",
+  "PREFIX": "!",
   "OPERATOR": [
     "100075290587473"
   ],
   "ADMINBOT": [
-    "100075290587473"
+    "61559134070491"
   ],
   "OWNER": ["100075290587473"],
   "APPROVED": [],
